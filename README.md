@@ -1,2 +1,2 @@
 # RetroPie-Berrycade
-Install and Setup scripts for Berrycade in RetroPie 4.0.2+
+I2C CLCD Install and Setup scripts for Berrycade in RetroPie 4.0.2+
